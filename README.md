@@ -53,8 +53,12 @@ else:
 ```
 player_x: 玩家的x
 player_y: 玩家的y
+player_x_speed: 玩家的x速度
+player_y_speed: 玩家的y速度
 enemys_x[]: 一個列表所有怪物的x
 enemys_y[]: 一個列表所有怪物的y
+border_x = 10000
+border_y = 10000
 ```
 
 ---
