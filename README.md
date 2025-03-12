@@ -36,6 +36,14 @@ enemys_y[]: 一個列表所有怪物的y
 - 怪物會自然的隨機移動
   - 不可以超出邊界
 
+## if
+```
+if player_distance >= 200 && player_distance <= 5000:
+  make_enemy()
+else:
+  dont_make_enemy()
+```
+
 ---
 
 # 變數
