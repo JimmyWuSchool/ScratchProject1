@@ -10,10 +10,10 @@ paint_background(x, y, block_x, block_y)
 ```
 使用這個func必須可以畫出背景
 ```
-x &rarr; 玩家的x
-y &rarr; 玩家的y
-block_x &rarr; 一個背景方塊的邊長(x)
-block_y &rarr; 一個背景方塊的邊長(y)
+x: 玩家的x
+y: 玩家的y
+block_x: 一個背景方塊的邊長(x)
+block_y: 一個背景方塊的邊長(y)
 ```
 
 # 生怪機制
