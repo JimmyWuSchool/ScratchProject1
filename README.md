@@ -15,6 +15,9 @@ y: 玩家的y
 block_x: 一個背景方塊的邊長(x)
 block_y: 一個背景方塊的邊長(y)
 ```
+### pattern
+![background_pattern](https://github.com/user-attachments/assets/2706ece5-287f-4926-a0b7-a3e7383f1623)
+
 
 ## 小地圖
 ### func
