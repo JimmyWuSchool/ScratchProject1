@@ -3,6 +3,19 @@
 - 玩家 &rarr; 在中間
 - 移動的背景
 
+## 移動背景
+### func
+```
+paint_background(x, y, block_x, block_y)
+```
+使用這個func必須可以畫出背景
+```
+x &rarr; 玩家的x
+y &rarr; 玩家的y
+block_x &rarr; 一個背景方塊的邊長(x)
+block_y &rarr; 一個背景方塊的邊長(y)
+```
+
 # 生怪機制
 - 200 pixel 內不會有怪
 - 5000 pixel 外不會有
