@@ -34,14 +34,14 @@ enemys_y[]: 一個列表所有怪物的y
 ```
 
 # 生怪機制
-- 200 pixel 內不會有怪
-- 5000 pixel 外不會有
+- 1500 pixel 內不會有怪
+- 3000 pixel 外不會有
 - 怪物會自然的隨機移動
   - 不可以超出邊界
 
 ## if
 ```
-if player_distance >= 200 && player_distance <= 5000:
+if player_distance >= 1500 && player_distance <= 3000:
   make_enemy()
 else:
   dont_make_enemy()
